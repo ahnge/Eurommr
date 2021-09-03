@@ -245,7 +245,7 @@ ul {
 
 /* Hero section */
 #hero {
-  background-image: url(/imgs/hero2.jpg);
+  background-image: url(./imgs/hero2.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -918,7 +918,7 @@ ul {
 #contact .contact_left {
   display: flex;
   flex-direction: column;
-  background-image: url(/imgs/bluep.jpg);
+  background-image: url(./imgs/bluep.jpg);
   background-size: cover;
   background-position: top center;
   padding: 80px 40px 50px;
@@ -1285,10 +1285,10 @@ section.blur_active {
   box-shadow: 0px 0px 10px #000000;
 }
 .archi_modal .archi_two {
-  background-image: url(/imgs/florian-schmidinger-b_79nOqf95I-unsplash.jpg);
+  background-image: url(./imgs/house.jpg);
 }
 .constru_modal .constru_two {
-  background-image: url(/imgs/construction2.jpg);
+  background-image: url(./imgs/house.jpg);
 }
 .archi_modal .archi_two:hover,
 .constru_two:hover {
@@ -1305,10 +1305,10 @@ section.blur_active {
   transition: 0.2s ease;
 }
 .archi_modal .archi_three {
-  background-image: url(/imgs/stephan-bechert-yFV39g6AZ5o-unsplash.jpg);
+  background-image: url(./imgs/house.jpg);
 }
 .constru_modal .constru_three {
-  background-image: url(/imgs/conn.jpg);
+  background-image: url(./imgs/conn.jpg);
 }
 .archi_modal .archi_three:hover,
 .constru_three:hover {
@@ -1317,7 +1317,7 @@ section.blur_active {
 .archi_modal .archi_4,
 .constru_4 {
   grid-column: 1/2;
-  background-image: url(/imgs/archi.jpg);
+  background-image: url(./imgs/conn.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -1326,7 +1326,7 @@ section.blur_active {
   transition: 0.2s ease;
 }
 .constru_modal .constru_4 {
-  background-image: url(/imgs/con3.jpg);
+  background-image: url(./imgs/conn.jpg);
 }
 .archi_modal .archi_4:hover,
 .constru_4:hover {
@@ -1341,7 +1341,7 @@ section.blur_active {
 .archi_modal .archi_5,
 .constru_5 {
   grid-column: 2/3;
-  background-image: url(/imgs/blueprint.jpg);
+  background-image: url(./imgs/conn.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -1350,7 +1350,7 @@ section.blur_active {
   transition: 0.2s ease;
 }
 .constru_modal .constru_5 {
-  background-image: url(/imgs/construction.jpg);
+  background-image: url(./imgs/conn.jpg);
 }
 .archi_modal .archi_5:hover,
 .constru_5:hover {
